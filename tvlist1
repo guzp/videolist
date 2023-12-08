@@ -3,36 +3,68 @@
 http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8.MeowTV
 #EXTINF:-1 group-title="央视频道",CCTV1综合
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV1综合
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv1
 #EXTINF:-1 group-title="央视频道",CCTV2财经
 http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV2财经
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv2
 #EXTINF:-1 group-title="央视频道",CCTV3综艺
 http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV3综艺
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv3
 #EXTINF:-1 group-title="央视频道",CCTV4国际
 http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV4国际
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv4
 #EXTINF:-1 group-title="央视频道",CCTV5体育
 http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV5体育
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv5
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv5p
 #EXTINF:-1 group-title="央视频道",CCTV6电影
 http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV6电影
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv6
 #EXTINF:-1 group-title="央视频道",CCTV7军事
 http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV7军事
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv7
 #EXTINF:-1 group-title="央视频道",CCTV8电视
 http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV8电视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv8
 #EXTINF:-1 group-title="央视频道",CCTV9记录
 http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV9记录
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv9
 #EXTINF:-1 group-title="央视频道",CCTV10科教
 http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV10科教
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv10
 #EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV11戏曲
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv11
 #EXTINF:-1 group-title="央视频道",CCTV12社会
 http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV12社会
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv12
 #EXTINF:-1 group-title="央视频道",CCTV13新闻
 http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV13新闻
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv13
 #EXTINF:-1 group-title="央视频道",CCTV14少儿
 http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV14少儿
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv14
 #EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?.MeowTV
 #EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8.MeowTV
+#EXTINF:-1 group-title="央视频道",CCTV15音乐
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cctv15
 #EXTINF:-1 group-title="央视频道",CCTV16奥匹
 http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8.MeowTV
 #EXTINF:-1 group-title="央视频道",CCTV17农业
