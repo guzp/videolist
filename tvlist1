@@ -70,8 +70,7 @@ http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8.Meow
 #EXTINF:-1 group-title="央视频道",CCTV17农业
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8.MeowTV
 #EXTINF:-1 group-title="央视频道",CCTV5+体育
-http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8.MeowTV
-#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8.MeowTV#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8.MeowTV
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8.MeowTV
@@ -132,7 +131,55 @@ http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8.Meow
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://120.196.232.37:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226700/1.m3u8.MeowTV
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8.MeowTV#EXTM3U
+http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8.MeowTV
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=hunanws
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=jsws
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=zjws
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=dfws
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=xzws
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=sdws
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=tjws
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=gxws
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=hnws
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=cqws
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=hebeiws
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=jlws
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=hbws
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=neimenggu
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=sxws
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=shxws
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=gsws
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=ynws
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=ahws
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=jxws
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=hljws
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=szws
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=gdws
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=lnws
 #EXTINF:-1 group-title="雅诗阁",雅诗阁
 http://103.45.68.47:666/gy/gy_JSVK/mkjd.php?ip=114.241.107.193:8014&id=live2000
 #EXTINF:-1 group-title="雅诗阁",CCTV1
